@@ -1016,5 +1016,12 @@ img.bare {
 }
 
 
-
+.slide-left {
+  float: left;
+  width: 50%;
+}
+.slide-right {
+  float: right;
+  width: 50%;
+}
 
